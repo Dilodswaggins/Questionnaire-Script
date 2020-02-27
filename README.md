@@ -1,6 +1,6 @@
 # Questionnaire-Script
-## How to use
 a Tampermonkey script
+## How to us
 + Step1
 安装Tampermonkey扩展
 + Step2
