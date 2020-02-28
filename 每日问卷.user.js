@@ -49,6 +49,8 @@
             var iframe=document.getElementById("yz_popwinIframe");
             var iDoc=iframe.contentDocument;
             var button = iDoc.querySelector(".ensure_btn");
+            var add= iDoc.getElementById("iAddress");
+            add.innerText="YOURADDRESS";
             button.click();
         }, 2000);
 
